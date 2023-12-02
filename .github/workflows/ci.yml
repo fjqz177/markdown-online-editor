@@ -11,9 +11,11 @@ jobs:
   build: # 自定义名称
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/setup-node@v3
+      - name: 🚜 设置Node.js环境
+        uses: actions/setup-node@v3
         with:
           node-version: 16
+
       - name: 🚜 拉取最新代码
         uses: actions/checkout@v3
         with:
@@ -24,6 +26,7 @@ jobs:
         run: |
           yarn
           yarn run build
+          echo 'markdown-online-editor-6lc.pages.dev' > CNAME
 
       - name: 🚀 部署到GitHub Pages
         uses: peaceiris/actions-gh-pages@v3.9.3

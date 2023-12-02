@@ -1,4 +1,4 @@
-name: 每8个小时更新一次reference
+name: 每8个小时更新一次Arya
 on:
   schedule:
     - cron: '21 */8 * * *' # 定时任务

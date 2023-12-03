@@ -1,5 +1,8 @@
 name: 每8个小时更新一次Arya
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: '21 */8 * * *' # 定时任务
   workflow_dispatch:       # 手动运行
@@ -26,7 +29,6 @@ jobs:
         run: |
           yarn
           yarn run build
-          echo 'markdown-online-editor-6lc.pages.dev' > CNAME
 
       - name: 🚀 部署到GitHub Pages
         uses: peaceiris/actions-gh-pages@v3.9.3

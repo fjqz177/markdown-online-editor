@@ -4,7 +4,7 @@
   <section class="header-wrapper">
     <h1 class="header-area">
       <a
-        href="https://markdown.lovejade.cn/?utm_sourece=markdown.lovejade.cn&pid=main-title"
+        href="https://arya.pages.dev/?utm_sourece=markdown.lovejade.cn&pid=main-title"
         class="header-link"
       >
         <img class="mark-markdown" src="@assets/images/markdown.png" alt="在线 Markdown 编辑器" />
@@ -24,36 +24,6 @@
             <icon class="header-icon" name="document" />
           </span>
         </router-link>
-        <a
-          href="https://www.lovejade.cn/zh/works/?utm_sourece=markdown.lovejade.cn&pid=header"
-          class="header-link"
-          target="_blank"
-          rel="noopener"
-        >
-          <span class="hint--bottom" aria-label="更多推荐">
-            <icon class="header-icon" name="recommend" />
-          </span>
-        </a>
-        <a
-          href="https://chatgpt.nicelinks.site/?utm_sourece=markdown.lovejade.cn&pid=header"
-          class="header-link"
-        >
-          <span class="hint--bottom" aria-label="使用 ChatGPT">
-            <icon
-              class="header-icon"
-              style="width: 1.6rem; height: 1.6rem; padding-top: 2px"
-              name="chatgpt"
-            />
-          </span>
-        </a>
-        <a
-          href="https://nicelinks.site/friends?utm_sourece=markdown.lovejade.cn&pid=header"
-          class="header-link"
-        >
-          <span class="hint--bottom" aria-label="友情链接">
-            <icon class="header-icon" name="friends-circle" />
-          </span>
-        </a>
         <a
           href="https://github.lovejade.cn/?utm_sourece=markdown.lovejade.cn&pid=header"
           class="header-link"

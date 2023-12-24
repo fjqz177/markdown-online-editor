@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.e2fd98024e73a9b075d67d0df243ff57.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("/precache-manifest.e8d3eca071400f4b9c7b5cdd4da2576b.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 const HTMLToCache = '/';
 const version = 'v1.0.0';

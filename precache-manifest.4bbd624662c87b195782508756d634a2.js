@@ -88,16 +88,20 @@ self.__precacheManifest = [
     "url": "/fonts/league-gothic.cd382dc8.woff"
   },
   {
-    "revision": "6f0a76321d30f3c8120915e57f7bd77e",
-    "url": "/fonts/element-icons.6f0a7632.ttf"
-  },
-  {
     "revision": "2fad952a20fbbcfd1bf2ebb210dccf7a",
     "url": "/fonts/element-icons.2fad952a.woff"
   },
   {
+    "revision": "6f0a76321d30f3c8120915e57f7bd77e",
+    "url": "/fonts/element-icons.6f0a7632.ttf"
+  },
+  {
     "revision": "5a3ac35878e36b582c187a240661fbba",
     "url": "/index.html"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/robots.txt"
   },
   {
     "revision": "bf35c3805e83f0178f9e224d8d0febca",
@@ -106,9 +110,5 @@ self.__precacheManifest = [
   {
     "revision": "369f6129748a531567ab3535689be69a",
     "url": "/site.webmanifest"
-  },
-  {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
   }
 ];

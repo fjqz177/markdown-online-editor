@@ -76,28 +76,32 @@ self.__precacheManifest = [
     "url": "/js/element.d712a617.js"
   },
   {
-    "revision": "cd382dc8a9d6317864b5810a320effc5",
-    "url": "/fonts/league-gothic.cd382dc8.woff"
-  },
-  {
     "revision": "9900a4643cc63c5d8f969d2196f72572",
     "url": "/fonts/league-gothic.9900a464.eot"
+  },
+  {
+    "revision": "cd382dc8a9d6317864b5810a320effc5",
+    "url": "/fonts/league-gothic.cd382dc8.woff"
   },
   {
     "revision": "91295fa87df918411b49b7531da5d558",
     "url": "/fonts/league-gothic.91295fa8.ttf"
   },
   {
-    "revision": "2fad952a20fbbcfd1bf2ebb210dccf7a",
-    "url": "/fonts/element-icons.2fad952a.woff"
-  },
-  {
     "revision": "6f0a76321d30f3c8120915e57f7bd77e",
     "url": "/fonts/element-icons.6f0a7632.ttf"
   },
   {
+    "revision": "2fad952a20fbbcfd1bf2ebb210dccf7a",
+    "url": "/fonts/element-icons.2fad952a.woff"
+  },
+  {
     "revision": "5a3ac35878e36b582c187a240661fbba",
     "url": "/index.html"
+  },
+  {
+    "revision": "369f6129748a531567ab3535689be69a",
+    "url": "/site.webmanifest"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
@@ -106,9 +110,5 @@ self.__precacheManifest = [
   {
     "revision": "bf35c3805e83f0178f9e224d8d0febca",
     "url": "/service-worker.js"
-  },
-  {
-    "revision": "369f6129748a531567ab3535689be69a",
-    "url": "/site.webmanifest"
   }
 ];

@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "/fonts/league-gothic.9900a464.eot"
   },
   {
-    "revision": "cd382dc8a9d6317864b5810a320effc5",
-    "url": "/fonts/league-gothic.cd382dc8.woff"
-  },
-  {
     "revision": "91295fa87df918411b49b7531da5d558",
     "url": "/fonts/league-gothic.91295fa8.ttf"
+  },
+  {
+    "revision": "cd382dc8a9d6317864b5810a320effc5",
+    "url": "/fonts/league-gothic.cd382dc8.woff"
   },
   {
     "revision": "6f0a76321d30f3c8120915e57f7bd77e",

@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "/fonts/league-gothic.9900a464.eot"
   },
   {
-    "revision": "cd382dc8a9d6317864b5810a320effc5",
-    "url": "/fonts/league-gothic.cd382dc8.woff"
-  },
-  {
     "revision": "91295fa87df918411b49b7531da5d558",
     "url": "/fonts/league-gothic.91295fa8.ttf"
+  },
+  {
+    "revision": "cd382dc8a9d6317864b5810a320effc5",
+    "url": "/fonts/league-gothic.cd382dc8.woff"
   },
   {
     "revision": "2fad952a20fbbcfd1bf2ebb210dccf7a",
@@ -100,12 +100,12 @@ self.__precacheManifest = [
     "url": "/index.html"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
-  },
-  {
     "revision": "bf35c3805e83f0178f9e224d8d0febca",
     "url": "/service-worker.js"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/robots.txt"
   },
   {
     "revision": "369f6129748a531567ab3535689be69a",

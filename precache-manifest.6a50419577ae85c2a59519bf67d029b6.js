@@ -100,15 +100,15 @@ self.__precacheManifest = [
     "url": "/index.html"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
-  },
-  {
     "revision": "bf35c3805e83f0178f9e224d8d0febca",
     "url": "/service-worker.js"
   },
   {
     "revision": "369f6129748a531567ab3535689be69a",
     "url": "/site.webmanifest"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/robots.txt"
   }
 ];

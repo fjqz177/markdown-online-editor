@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/js/element.d712a617.js"
   },
   {
-    "revision": "91295fa87df918411b49b7531da5d558",
-    "url": "/fonts/league-gothic.91295fa8.ttf"
-  },
-  {
     "revision": "cd382dc8a9d6317864b5810a320effc5",
     "url": "/fonts/league-gothic.cd382dc8.woff"
+  },
+  {
+    "revision": "91295fa87df918411b49b7531da5d558",
+    "url": "/fonts/league-gothic.91295fa8.ttf"
   },
   {
     "revision": "9900a4643cc63c5d8f969d2196f72572",
